@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <!-- look in core files for more options -->
+  <achievement id="1" name="Noble" description="Gain noblesse status" reward="9596,1" mustBeNoble="true"/>
+  <achievement id="2" name="Hero" description="Gain hero status" reward="9596,1" mustBeHero="true"/>
+  <achievement id="3" name="Enchanter" description="Gain a +22 weapon" reward="9596,1" minWeaponEnchant="22" />
+  <achievement id="4" name="Pro Player" description="Gain 5,000 PvPs" reward="9596,1;9514,1000" minPvPCount="5000"/>
+  <achievement id="5" name="Evil Player" description="Gain 1,500 PKs" reward="9596,1;9514,500" minPkCount="1500"/>
+  <achievement id="6" name="Rich B1tch" description="Bring 20 Gold Bars" reward="9596,1" itemAmmount="3470,20"/>
+  <achievement id="7" name="Old Gamer" description="Be online for 10 days" reward="9596,1" minOnlineTime="10"/>
+  <achievement id="8" name="Master Codex" description="Have a +13 skill" reward="9596,1;6622,5" minSkillEnchant="13"/>
+  <achievement id="9" name="The Myth" description="Have hero status for 2 periods" reward="9596,1" minHeroCount="2"/>
+  <achievement id="10" name="Pro Slayer" description="Kill Ice Fairy, Lillith and Anakim within 24hours" reward="9596,1;8177,1;8180,1" raidToKill="29056" raidToKill1="25283" raidToKill2="25286"/>
+  <achievement id="11" name="Baium my Bitch" description="Kill Baium and be level 80" reward="9596,1;8178,1" raidToKill="29020" minLevel="80" />
+  <achievement id="12" name="Antharas my Pet" description="Kill Antharas and be level 80" reward="9596,1;8568,1" raidToKill="29019" minLevel="80" />
+  <achievement id="13" name="Valakas is Fucked" description="Kill Valakas and be level 80" reward="9596,1;8567,1" raidToKill="29028" minLevel="80" />
+  <achievement id="14" name="Pro Raid Killer" description="Claim 1,200 Raid points and be lvl 80" reward="9596,1;8179,1" minRaidPoints="1200" minLevel="80" />
+  <achievement id="15" name="PvPZone King" description="Gain 15,000 PvPs" reward="9596,1;9514,5000" minPvPCount="15000"/>
+</list>

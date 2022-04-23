@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<!-- Scrolls: Enchant Weapon -->
+	<enchant id="959" grade="5" weapon="True" break="True" maintain="False" backTo="0" chance="100;100;100;100;100" /> <!-- S grade - Scrolls: Enchant Weapon -->
+	<enchant id="729" grade="4" weapon="True" break="True" maintain="False" backTo="0" chance="100;100;100;100;100" /> <!-- A grade - Scrolls: Enchant Weapon -->
+	<enchant id="947" grade="3" weapon="True" break="True" maintain="False" backTo="0" chance="100;100;100;100;100" /> <!-- B grade - Scrolls: Enchant Weapon -->
+	
+	<!-- Scrolls: Enchant Armor -->
+	<enchant id="960" grade="5" weapon="False" break="True" maintain="False" backTo="0" chance="100;100;100;100;100" /> <!-- S grade - Scrolls: Enchant Armor -->
+	<enchant id="730" grade="4" weapon="False" break="True" maintain="False" backTo="0" chance="100;100;100;100;100" /> <!-- A grade - Scrolls: Enchant Armor -->
+	<enchant id="948" grade="3" weapon="False" break="True" maintain="False" backTo="0" chance="100;100;100;100;100" /> <!-- B grade - Scrolls: Enchant Armor -->
+	
+	<!-- Blessed Scrolls: Enchant Weapon -->
+	<enchant id="6577" grade="5" weapon="True" break="False" maintain="False" backTo="5" chance="100;100;100;100;100;100;100;100;100;100;100;100;100" /> <!-- S grade - Blessed Scrolls: Enchant Weapon -->
+	<enchant id="6569" grade="4" weapon="True" break="False" maintain="False" backTo="5" chance="100;100;100;100;100;100;100;100;100;100;100;100;100" /> <!-- A grade - Blessed Scrolls: Enchant Weapon -->
+	<enchant id="6571" grade="3" weapon="True" break="False" maintain="False" backTo="5" chance="100;100;100;100;100;100;100;100;100;100;100;100;100" /> <!-- B grade - Blessed Scrolls: Enchant Weapon -->
+
+	<!-- Blessed Scrolls: Armor Weapon -->
+	<enchant id="6578" grade="5" weapon="False" break="False" maintain="False" backTo="5" chance="100;100;100;100;100;100;100;100;100;100;100;100;100" /> <!-- S grade - Blessed Scrolls: Enchant Armor -->
+	<enchant id="6570" grade="4" weapon="False" break="False" maintain="False" backTo="5" chance="100;100;100;100;100;100;100;100;100;100;100;100;100" /> <!-- A grade - Blessed Scrolls: Enchant Armor -->
+	<enchant id="6572" grade="3" weapon="False" break="False" maintain="False" backTo="5" chance="100;100;100;100;100;100;100;100;100;100;100;100;100" /> <!-- B grade - Blessed Scrolls: Enchant Armor -->
+
+	<!-- Gold Scrolls: Enchant Weapon -->
+	<enchant id="9550" grade="3" weapon="True" break="False" maintain="False" backTo="13" chance="100;100;100;100;100;100;100;100;100;100;100;100;100;70;50;30" /> <!-- B grade - Gold Scrolls: Enchant Weapon -->
+	<enchant id="9551" grade="4" weapon="True" break="False" maintain="False" backTo="13" chance="100;100;100;100;100;100;100;100;100;100;100;100;100;70;50;30" /> <!-- A grade - Gold Scrolls: Enchant Weapon -->
+	<enchant id="9552" grade="5" weapon="True" break="False" maintain="False" backTo="13" chance="100;100;100;100;100;100;100;100;100;100;100;100;100;70;50;30" /> <!-- S grade - Gold Scrolls: Enchant Weapon -->
+
+    <!-- Gold Scrolls: Enchant Armor -->
+	<enchant id="9553" grade="3" weapon="False" break="False" maintain="False" backTo="13" chance="100;100;100;100;100;100;100;100;100;100;100;100;100;70;50;30" /> <!-- B grade - Gold Scrolls: Enchant Armor -->
+	<enchant id="9554" grade="4" weapon="False" break="False" maintain="False" backTo="13" chance="100;100;100;100;100;100;100;100;100;100;100;100;100;70;50;30" /> <!-- A grade - Gold Scrolls: Enchant Armor -->
+	<enchant id="9555" grade="5" weapon="False" break="False" maintain="False" backTo="13" chance="100;100;100;100;100;100;100;100;100;100;100;100;100;70;50;30" /> <!-- S grade - Gold Scrolls: Enchant Armor -->
+</list>

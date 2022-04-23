@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/L2jFrozenInterlude/!svn/ver/940/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script
+END
+DateRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/DateRange.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/Parser.java
+END
+IntList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/IntList.java
+END
+ScriptEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/L2jFrozenInterlude/!svn/ver/456/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/ScriptEngine.java
+END
+ScriptPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/L2jFrozenInterlude/!svn/ver/924/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/ScriptPackage.java
+END
+ParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/ParserFactory.java
+END
+ParserNotCreatedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/ParserNotCreatedException.java
+END
+ShortList.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/ShortList.java
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/L2jFrozenInterlude/!svn/ver/59/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/Expression.java
+END
+EventDroplist.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/L2jFrozenInterlude/!svn/ver/908/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/EventDroplist.java
+END
+EngineInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/L2jFrozenInterlude/!svn/ver/889/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/EngineInterface.java
+END
+ScriptDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/L2jFrozenInterlude/!svn/ver/924/trunk/gameserver/head-src/com/l2jfrozen/gameserver/script/ScriptDocument.java
+END
